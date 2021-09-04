@@ -49,3 +49,6 @@ $ ./container_tests_bonus bonus
 ```
 La méthode max_size() de chaque container diffère entre Linux et Mac !
 Il se peut que cette partie ne soit pas valide.
+
+![alt text](https://image.noelshack.com/fichiers/2021/35/6/1630764537-capture-d-ecran-du-2021-09-04-16-08-52.png)
+
