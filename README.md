@@ -2,9 +2,9 @@
 
 Un simple testeur du projet "FT-Ccontainers" de l'école 42.
 
-* [Informations](#infos)
-* [Setup](#setup)
-* [Usage](#usage)
+* [Informations](#Informations)
+* [Setup](#Setup)
+* [Usage](#Usage)
 
 ## Informations
 L'objectif de ce testeur est de vous aider à valider le projet ft_containers.
