@@ -1,12 +1,12 @@
 # ft_containers
 
-Un simple testeur du projet "FT-Ccontainers" de l'école 42.
+Un simple testeur du projet "FT-Containers" de l'école 42.
 
-* [Informations]
-* [Setup]
-* [Usage]
+* [Informations](#Informations)
+* [Setup](#Setup)
+* [Usage](#Usage)
 
-##Informations
+## Informations
 L'objectif de ce testeur est de vous aider à valider le projet ft_containers.
 Si vous échouez sur certains tests, celà ne veut pas dire que votre fonction est fausse.
 Dans ce cas, faites des tests de votre côté.
@@ -27,7 +27,7 @@ Bonus:
 
 Même si le sujet du projet change, le testeur restera valide.
 
-##Setup
+## Setup
 ```
 $ git clone git@github.com:vvaucoul/42-Containers-Tester.git
 $ cd 42-Containers-Tester
@@ -38,7 +38,7 @@ Modifiez ensuite 2 fichiers:
 * Makefile : Remplacez chaque header de la règle "CXXFLAGS" par l'emplacement de vos headers.
 * tests/Tests.hpp : Remplacez les includes *.hpp par l'emplacement de vos headers
 
-##Usage
+## Usage
 
 ```
 $ Make
