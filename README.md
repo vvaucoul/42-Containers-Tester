@@ -1,6 +1,6 @@
 # ft_containers
 
-Un simple testeur du projet "FT-Ccontainers" de l'école 42.
+Un simple testeur du projet "FT-Containers" de l'école 42.
 
 * [Informations](#Informations)
 * [Setup](#Setup)
